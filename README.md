@@ -40,9 +40,6 @@ $ rails s
 * Vanilla JavaScript (front-end)
 * Rails (back-end)
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/sylwiavargas/Gentrification-Map-Frontend/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
