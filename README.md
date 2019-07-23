@@ -41,7 +41,7 @@ $ rails s
 ## Authors
 
 * **Chris Ogilvy** 
-* **Sylwia Vargas** - *Initial work*
+* **Sylwia Vargas**
 
 ## License
 
